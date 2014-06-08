@@ -1,3 +1,4 @@
+
 #read data from directory where file has been extracted
 inputdataset <- read.table("household_power_consumption.txt",sep=";",header=TRUE)
 
